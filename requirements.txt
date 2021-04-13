@@ -1,5 +1,4 @@
 aiohttp
-aria2p
 hachoir
 Pillow
 pyrogram==1.0.7
