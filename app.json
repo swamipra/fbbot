@@ -1,12 +1,12 @@
 {
-  "name": "Telegram Torrent Leecher",
-  "description": "A Telegram Torrent (and youtube-dl) Leecher based on Pyrogram. Powered by @torrentleechgdrivesupport!",
+  "name": " Just anything",
+  "description": "Telegram am. Powert",
   "keywords": [
     "telegram"
   ],
-  "repository": "https://github.com/gautamajay52/TorrentLeech-Gdrive",
-  "success_url": "https://t.me/torrentleechgdrivesupport",
-  "website": "https://github.com/gautamajay52/TorrentLeech-Gdrive",
+  "repository": "https://github.com/",
+  "success_url": "https://www.google.com",
+  "website": "https://github.com",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -22,10 +22,6 @@
     },
     "TG_BOT_TOKEN": {
       "description": "get this value from @BotFather",
-      "value": ""
-    },
-    "AUTH_CHANNEL": {
-      "description": "should be an integer. The BOT API ID of the Telegram Group, where the Leecher should work.",
       "value": ""
     },
     "OWNER_ID": {
