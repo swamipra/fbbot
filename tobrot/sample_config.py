@@ -47,11 +47,9 @@ class Config(object):
     # add offensive API
     TG_OFFENSIVE_API = os.environ.get("TG_OFFENSIVE_API", None)
     CUSTOM_FILE_NAME = os.environ.get("CUSTOM_FILE_NAME", "")
-    LEECH_COMMAND = os.environ.get("LEECH_COMMAND", "leech")
     YTDL_COMMAND = os.environ.get("YTDL_COMMAND", "ytdl")
     RCLONE_CONFIG = os.environ.get("RCLONE_CONFIG", "")
     DESTINATION_FOLDER = os.environ.get("DESTINATION_FOLDER", "TorrentLeech-Gdrive")
-    GLEECH_COMMAND = os.environ.get("GLEECH_COMMAND", "gleech")
     INDEX_LINK = os.environ.get("INDEX_LINK", "")
     TELEGRAM_LEECH_COMMAND_G = os.environ.get("TELEGRAM_LEECH_COMMAND_G", "tleech")
     CANCEL_COMMAND_G = os.environ.get("CANCEL_COMMAND_G", "cancel")
